@@ -17,7 +17,7 @@ The initial version of this starter-pack lets you build a simple assistant capab
 Clone this repo to get started:
 
 ```
-git clone https://github.com/RasaHQ/starter-pack-rasa-stack.git
+git clone https://github.com/msamogh/starter-pack-rasa-stack.git
 ```
 
 **The starter-pack should be run with the most recent release of Rasa.** If you are feeling adventourous, check out the `latest` branch and install the `master` branch version of Rasa.
